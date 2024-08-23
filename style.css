@@ -1,0 +1,20 @@
+
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+width: 1900px;
+height: 87px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+}
+th{
+    background-color:rgb(219, 243, 8)
+}
+
+#a{
+    background-color: aqua;
+}
+#b{
+    background-color:limegreen
+}
